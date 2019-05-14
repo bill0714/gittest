@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include "myheader.h"
+
 //this is master
+>>>>>>> testbranch
 int main(void){
 	printHello();
 	printBye();
